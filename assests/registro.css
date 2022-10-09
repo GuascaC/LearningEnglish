@@ -1,0 +1,230 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html {
+    height: 100%;
+}
+body{
+    background: linear-gradient(
+        #c0b283, #dcd0c0);
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.h6{
+    color: white;
+}
+.re{
+    text-align: center;
+}
+.text{
+    color: #262626;
+    float:left;
+    padding: 50px 450px;
+    text-align: right;
+    font-size: 70px;
+    font-style: oblique;
+}
+.n{
+    color: #E6F3EC;
+}
+
+.h1{
+    color: #E6F3EC;
+
+}
+@media (max-width: 1680px) {
+
+    .re{
+        margin: 10px;
+        width: 2px;
+        height: 2px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-style:oblique;
+    }
+
+    .inSesion{
+        background-color: #262626;
+        border: 20px solid #262626;
+        margin-right: 10%;
+        border-radius: 10px;
+        text-align: center;
+        width: 100px;
+        height: auto;
+        margin-top: 1%;
+        margin-left: 50%;
+
+    }
+    .text{
+        margin: 100px;
+        padding: 20px 20px;
+        color: #262626;
+        font-size: 50px;
+        font-style: oblique;
+
+    }
+    h3{
+        color:#262626;
+        text-align: center;
+    }
+    
+    .boton{
+        text-align: center;
+    }
+    
+    .color{
+        background-color:#E6F3EC;
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    .botIngresar{
+        text-align: center;
+    }
+    
+    .ingresar{
+        color:#E6F3EC;
+        font-size: 25px;
+        background-color: black;
+    }
+    
+    .olCont{
+        text-align: center;
+        font-size: 15px;
+    }
+    .botFace{
+        font-size: 20px;
+        background-color: #3a5a97;
+        color:white;
+        border-radius: 11px;
+    }
+    
+    .botGoo{
+        text-align:center;
+        font-size: 20px;
+        background-color:#3C3A3A;
+        color:white;
+        border-radius: 10px;
+        padding: 0px 7px;
+    }
+    
+    footer{
+        bottom: 0%;
+        text-align: center;
+        box-sizing: border-box ;
+        width: 80px;
+        height: 20px;
+        background-color: #262626;
+    }
+    
+    a {
+        color: white;
+    }
+    
+    .aparte{
+        color: white;
+    }
+    
+    .registro{
+    border-radius: 5px;
+
+
+}
+
+    
+    .botRes{
+        color:black;
+        text-align: center;
+        font-size: 24px;
+        border-radius: 5px;
+    
+    }
+
+
+.inSesion{
+    display: flexbox;
+    background-color: #262626;
+    border: 20px solid #262626;
+    margin-right: 10%;
+    border-radius: 10px;
+    text-align: center;
+    width: 100px;
+    height: auto;
+    margin-top: 1%;
+    margin-left: 40%;
+}
+
+h3{
+    color:#262626;
+    text-align: center;
+}
+
+.boton{
+    text-align: center;
+}
+
+.color{
+    background-color:#E6F3EC;
+    font-size: 25px;
+    text-align: center;
+}
+
+.botIngresar{
+    text-align: center;
+}
+
+.ingresar{
+    color:#E6F3EC;
+    font-size: 25px;
+
+}
+
+.olCont{
+    text-align: center;
+    font-size: 15px;
+}
+.botFace{
+    font-size: 20px;
+    background-color: #3a5a97;
+    color:white;
+    border-radius: 11px;
+}
+
+.botGoo{
+    text-align:center;
+    font-size: 20px;
+    background-color:#3C3A3A;
+    color:white;
+    border-radius: 10px;
+    padding: 0px 7px;
+}
+
+footer{
+    bottom: 0%;
+    text-align: center;
+    box-sizing: border-box ;
+    width: 100%;
+    height: 40px;
+    background-color: #262626;
+}
+
+a {
+    color: white;
+}
+
+.aparte{
+    color: white;
+}
+
+.registro{
+    background-color: black;
+}
+
+.botRes{
+    color:black;
+    text-align: center;
+    font-size: 24px;
+}
+}

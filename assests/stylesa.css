@@ -1,0 +1,150 @@
+body{
+    width:fit-content;
+    height: fit-content;
+    background-color: #141E26;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+h1{
+    text-align: start;
+    width: 200px;
+    height: auto;
+    color: #D5E5F2;
+    padding: 0;
+    margin:  10px;
+    padding: 10px;
+    border:2px solid #141E26;
+    border-radius: 0px;
+    box-sizing: border-box;
+
+}
+
+h2{
+    font-size: 4em;
+    color: #D5E5F2;
+    border: 2px solid #141E26;
+    width: 1000px;
+    transform: translateX(10%) translateY(300%);
+}
+
+form{
+    display: flex;
+}
+.i1{
+    text-align: end;
+    background-color: #8b9a9a;
+    border: 2px solid #141E26;
+    border-radius: 5px;
+    margin: auto 1200px;
+    width: 400px;
+    height: 1000px;
+    padding: 100px;
+    box-sizing: border-box;
+
+}
+
+.ii1{
+    font-size: 2em;
+    background-color: #141E26;
+    border: #141E26;
+    text-align: center;
+    box-sizing: border-box;
+    font-style: oblique;
+}
+
+
+.ii2{
+    font-size: 2em;
+    background-color: #141E26;
+    border: #141E26;
+    text-align: center;
+    font-style: oblique;
+}
+
+.iii2{
+    font-size: 2em;
+    background-color: #141E26;
+    border: #141E26;
+    text-align: center;
+    font-style: oblique;
+}
+
+h3{
+    color: #D5E5F2;
+    height: 100px;
+    margin: auto;
+    text-align: left;
+    font-size: 3rem;
+    font-family: monospace;
+
+
+
+
+
+}
+
+#validar{
+    color: #141E26;
+    background-color: #2C4C59;
+    margin: auto 100px;
+    width: 200px;
+    height: 100px;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+
+#a1{
+    display: inline-block;
+    padding: 20px;
+    background-color: #8b9a9a;
+    border: 3px solid black;
+    border-radius: 50px;
+    transform: translateX(30em);
+
+}
+
+#a2{
+    display: inline-block;
+    padding: 20px;
+    background-color: #8b9a9a;
+    border: 3px solid black;
+    border-radius: 50px;
+    transform: translateX(35em);
+
+}
+
+#a3{
+    display: inline-block;
+    padding: 20px;
+    background-color: #8b9a9a;
+    border: 3px solid black;
+    border-radius: 50px;
+    transform: translateX(40em);
+
+
+}
+
+.ii3{
+    font-size: 2em;
+    background-color: #2949FA;
+    border: 3px solid #2949FA;
+    border-radius: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    font-style: oblique;
+    color: #D5E5F2;
+    position: static;
+}
+
+.abril{
+    font-size: 2em;
+    background-color: #D5E5F2;
+    border: 3px solid #D5E5F2;
+    border-radius: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    font-style: oblique;
+    color: #141E26;
+    position: static;
+}
